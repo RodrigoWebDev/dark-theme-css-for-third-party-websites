@@ -1,10 +1,10 @@
 /* https://clipperz.is/app/ */
 .cardDetail{
   background: #1f1f1f;
-  color: white;
+  color: white
 }
 
-.cardListInnerWrapper li, textarea{
+.cardListInnerWrapper li, textarea, .cardListInnerWrapper{
   background-color: #303030 !important;
   color: white;
 }
